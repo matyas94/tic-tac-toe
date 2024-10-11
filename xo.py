@@ -24,7 +24,6 @@ if jatek == "y":
         ember = []
         szamitogép = []
 
-
         print(f"{egy} | {ketto} | {harom}\n----------\n{negy} | {ot} | {hat}\n----------\n{het} | {nyolc} | {kilenc}")
 
         sarok = [1, 3, 7, 9]
